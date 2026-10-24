@@ -508,6 +508,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ClearCounter (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5481348529127323911, guid: b8caea9c51a788343aca35371f423ead, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7390306588022088254, guid: b8caea9c51a788343aca35371f423ead, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.6
@@ -913,9 +917,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 463767942918463202, guid: b8caea9c51a788343aca35371f423ead, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4410275507589035054, guid: b8caea9c51a788343aca35371f423ead, type: 3}
       propertyPath: m_Name
       value: ClearCounter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4410275507589035054, guid: b8caea9c51a788343aca35371f423ead, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7390306588022088254, guid: b8caea9c51a788343aca35371f423ead, type: 3}
       propertyPath: m_LocalPosition.x
